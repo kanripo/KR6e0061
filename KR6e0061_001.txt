@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:27.688214
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:48
 #+TITLE: 十地義記卷第一
 #+PROPERTY: CBETA_ID T85n2758
 #+PROPERTY: ID KR6e0061

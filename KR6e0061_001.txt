@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:27.688214
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:48
 #+TITLE: 十地義記卷第一
 #+PROPERTY: CBETA_ID T85n2758
 #+PROPERTY: ID KR6e0061
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2758
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0061_T_000-0236a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0061_T_001-0236a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2758[cf.No.1522]¶
-
- 十地義記卷第一¶
+No. 2758 [cf. No. 1522]¶
+十地義記卷第一¶
 ¶
 
 嚴故寄天住以障□□□□□□□□□□¶
@@ -306,7 +305,7 @@ No.2758[cf.No.1522]¶
 阿僧祇不可量無分齊無周邊。不可數不可¶
 稱量不可思議不可說也。佛告心王菩薩言。¶
 百千百千為一拘梨。拘梨拘梨為一不變。不¶
-變不變名一那由他。那由他那由他為一鞞¶
+變不變名一那由他。耶由他那由他為一鞞¶
 婆邏。鞞婆邏鞞婆羅名一作。作作名一勝。來¶
 來名一勝。勝勝名一復次。復次復次名一阿¶
 婆羅。乃至受受等有一百重數。然後至阿僧¶
